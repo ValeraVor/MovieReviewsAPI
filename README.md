@@ -1,8 +1,8 @@
-#MovieReviewsAPI
+MovieReviewsAPI
 
-##В данном приложении использована архитектура MVVM.
+В данном приложении использована архитектура MVVM.
 
-###Coroutines
-###Retrofit2
-###RecyclerView
-###Glide
+Coroutines
+Retrofit2
+RecyclerView
+Glide
